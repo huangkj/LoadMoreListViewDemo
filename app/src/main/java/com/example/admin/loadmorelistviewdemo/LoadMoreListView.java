@@ -10,7 +10,7 @@ import android.widget.RelativeLayout;
 /**
  * 创建者：黄凯军
  * 创建时间：2015/12/17 10:53
- * 类描述：loadmore1
+ * 类描述：loadmore2
  */
 public class LoadMoreListView extends ListView implements AbsListView.OnScrollListener {
     private Context mContext;
